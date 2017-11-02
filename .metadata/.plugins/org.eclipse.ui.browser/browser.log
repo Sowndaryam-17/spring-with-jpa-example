@@ -1,0 +1,7 @@
+
+Jul 20, 2017 10:15:18.53 NEW SESSION
+Jul 20, 2017 10:15:18.54 1500525918521	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+Jul 20, 2017 10:15:18.54 1500525918541	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+Jul 20, 2017 10:15:18.57 1500525918561	addons.update-checker	WARN	Update manifest for aushelper@mozilla.org did not contain an updates property
+Jul 20, 2017 10:15:18.59 1500525918581	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Jul 20, 2017 10:15:18.60 1500525918601	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property

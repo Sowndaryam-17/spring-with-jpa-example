@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [14/Aug/2017:12:46:55 +0530] "GET /Task1/ HTTP/1.1" 200 2053
+0:0:0:0:0:0:0:1 - - [14/Aug/2017:12:46:55 +0530] "GET /Task1/js/angularjs/main/angular-route.min.js HTTP/1.1" 200 4403
+0:0:0:0:0:0:0:1 - - [14/Aug/2017:12:46:55 +0530] "GET /Task1/js/angularjs/main/ngStorage.min.js HTTP/1.1" 200 2268
+0:0:0:0:0:0:0:1 - - [14/Aug/2017:12:46:55 +0530] "GET /Task1/js/angularjs/main/angular-local-storage.js HTTP/1.1" 200 5285
+0:0:0:0:0:0:0:1 - - [14/Aug/2017:12:46:55 +0530] "GET /Task1/js/angularjs/main/jquery.min.js HTTP/1.1" 200 84384
+0:0:0:0:0:0:0:1 - - [14/Aug/2017:12:46:55 +0530] "GET /Task1/js/angularjs/main/bootstrap.min.js HTTP/1.1" 200 35458
+0:0:0:0:0:0:0:1 - - [14/Aug/2017:12:46:55 +0530] "GET /Task1/js/angularjs/main/angular-ui-router.min.js HTTP/1.1" 200 30445
+0:0:0:0:0:0:0:1 - - [14/Aug/2017:12:46:55 +0530] "GET /Task1/js/app.js HTTP/1.1" 200 625
+0:0:0:0:0:0:0:1 - - [14/Aug/2017:12:46:56 +0530] "GET /Task1/js/angularjs/main/angular.min.js HTTP/1.1" 200 147350
+0:0:0:0:0:0:0:1 - - [14/Aug/2017:12:46:56 +0530] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [14/Aug/2017:12:46:57 +0530] "POST /Task1/retrive.do HTTP/1.1" 200 550
